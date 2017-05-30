@@ -1,8 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="SpEL" injector-id="java">
-      <display-name>AuthorizedUrl.access (org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("access").withParameters("java.lang.String").definedInClass("org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer.AuthorizedUrl"))]]></place>
-    </injection>
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
   </component>
 </application>

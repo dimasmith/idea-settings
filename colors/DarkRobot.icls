@@ -1,0 +1,14 @@
+<scheme name="DarkRobot" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-08-17T12:00:55</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.2.2.0.0</property>
+    <property name="modified">2016-12-12T11:21:48</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Roboto Mono for Powerline" />
+</scheme>

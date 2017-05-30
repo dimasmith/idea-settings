@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.backbase.dev:9000/" />
+          <option name="name" value="Backbase Sonar" />
+          <option name="login" value="dmytrok" />
+          <password>df9cdfefdfe8dfe8dfffdfecdfd2dfc7dfdbdfd3dfe6dfc1dfeadf93dff3dfcb</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
