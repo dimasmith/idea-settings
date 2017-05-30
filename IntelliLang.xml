@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SpEL" injector-id="java">
+      <display-name>AuthorizedUrl.access (org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("access").withParameters("java.lang.String").definedInClass("org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer.AuthorizedUrl"))]]></place>
+    </injection>
+  </component>
+</application>
