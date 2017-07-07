@@ -3,7 +3,10 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="2" />
+        <entry key="'Alt+5'" value="2" />
+        <entry key="'Alt+Insert'" value="1" />
         <entry key="'Ctrl+Alt+Y'" value="1" />
+        <entry key="'Ctrl+Shift+F8'" value="1" />
       </map>
     </option>
   </component>
