@@ -4,4 +4,7 @@
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="SliceBackward">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
