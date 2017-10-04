@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'limit-persistence-service'" />
-    <option name="defaultScopeName" value="Project 'limit-persistence-service'" />
-    <option name="SEARCH_SCOPE" value="Project 'limit-persistence-service'" />
+    <option name="customScope" value="File '[limit-persistence-service] - .../src/main/java/com/backbase/persistence/limit/service/DefaultLimitService.java'" />
+    <option name="defaultScopeName" value="File '[limit-persistence-service] - .../src/main/java/com/backbase/persistence/limit/service/DefaultLimitService.java'" />
+    <option name="SEARCH_SCOPE" value="File '[limit-persistence-service] - .../src/main/java/com/backbase/persistence/limit/service/DefaultLimitService.java'" />
   </component>
 </application>
